@@ -43,12 +43,11 @@ export default {
         finest firms in the area.
       </p>
       <p>
-        The company is spear-headed by President Tom Flach, AIA. Tom is a 
-        consummate perfectionist with a
-        deep knowledge of architectural styles and influences.
-        Leveraging Tom’s past experience managing both design and construction
-        with Kohlmark Builders enables Kohlmark
-        Flach Architects to better serve our clients and offer true turn- key
+        The company is spear-headed by President Tom Flach, AIA. Tom is a
+        consummate perfectionist with a deep knowledge of architectural styles
+        and influences. Leveraging Tom's past experience managing both design
+        and construction with Kohlmark Builders enables Kohlmark Flach
+        Architects to better serve our clients and offer true turn- key
         solutions for projects in all stages of development.
       </p>
     </div>
@@ -61,15 +60,19 @@ export default {
   justify-content: center;
   align-items: center;
 }
+
 .container {
   position: relative;
 }
+
 .container h1 {
   margin-bottom: 34px;
 }
+
 .container p {
   font-size: var(--p-font-size-special);
 }
+
 @media screen and (min-width: 768px) {
   .container p {
     font-size: var(--p-font-size-large);

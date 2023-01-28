@@ -1,7 +1,6 @@
 import TomFlach from '@/assets/team/Tom_Flach.jpg';
 import TraceyFlach from '@/assets/team/Tracey_Flach.jpg';
 import ChrisChatfield from '@/assets/team/Chris_Chatfield.jpg';
-// import JeremyPotter from '@/assets/team/Jeremy_Potter.jpg';
 
 export default {
   bios: [
@@ -18,19 +17,6 @@ export default {
       <p>A recipient of numerous awards, Tom is a distinguished member of the <a href="https://www.aia.org" target="_blank">American Institute of Architects</a> (AIA) and licensed in Virginia.</p>
       `,
     },
-    // {
-    //   id: 'vice-president',
-    //   position: 1,
-    //   fullName: 'Jeremy Potter, AIA',
-    //   photo: JeremyPotter,
-    //   title: 'Vice President',
-    //   copy: `
-    //   <p>With parents who built a house in rural Maine and an uncle who is a woodworker, Jeremy was destined for a career in building. Inspired by his childhood experiences, Jeremy pursued engineering at Hobart College until exposure to fine art classes cemented his passion for architecture. After graduating with distinction, Jeremy went on to receive a Master of Architecture degree from the prestigious Rhode Island School of Design.</p>
-    //   <p>As a hands-on architect with a reputation as a collaborative designer, Jeremy is focused on the expression of materials and experiences over the limits of traditional construction. His designs are clean, ordered and a refreshing departure from the faux colonial homes that dominate the region.</p>
-    //   <p>Outside of the office, Jeremy enjoys mountain biking, cooking, making furniture and time with his family.</p>
-    //   <p>Jeremy is a distinguished member of the <a href="https://www.aia.org" target="_blank">American Institute of Architects</a> (AIA) and licensed in Virginia, Maryland and Washington, D.C.</p>
-    //   `,
-    // },
     {
       id: 'senior-project-manager',
       position: 2,
