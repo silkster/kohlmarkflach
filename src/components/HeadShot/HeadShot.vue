@@ -110,9 +110,6 @@ export default {
     max-width: unset;
     max-height: unset;
   }
-  .container:nth-child(odd) {
-    margin-right: 60px;
-  }
   .container:nth-child(even) {
     margin-left: 60px;
   }
