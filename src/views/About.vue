@@ -43,12 +43,11 @@ export default {
         finest firms in the area.
       </p>
       <p>
-        The company is spear-headed by President Tom Flach, AIA, and Vice
-        President Jeremy Potter, AIA. Tom is a consummate perfectionist with a
-        deep knowledge of architectural styles and influences and Jeremy
-        represents a new generation of powerhouse design and technical knowhow.
+        The company is spear-headed by President Tom Flach, AIA. Tom is a 
+        consummate perfectionist with a
+        deep knowledge of architectural styles and influences.
         Leveraging Tom’s past experience managing both design and construction
-        with Kohlmark Builders and Jeremy’s creative gifts enables Kohlmark
+        with Kohlmark Builders enables Kohlmark
         Flach Architects to better serve our clients and offer true turn- key
         solutions for projects in all stages of development.
       </p>
